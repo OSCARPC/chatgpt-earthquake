@@ -14,7 +14,7 @@ import googlemaps
 from datetime import datetime
 
 # Configurar tu API key de Google Maps
-api_key = 'AIzaSyCy0SWPz8K_CqVgFaxaoRAccO8ASid9ReI'  # Reemplaza 'YOUR_GOOGLE_MAPS_API_KEY' con tu clave de API de Google Maps
+api_key = ''  # Reemplaza 'YOUR_GOOGLE_MAPS_API_KEY' con tu clave de API de Google Maps
 gmaps = googlemaps.Client(key=api_key)
 
 # Definir las coordenadas del punto central
